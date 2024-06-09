@@ -1,0 +1,185 @@
+.filters {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 1rem;
+    flex-wrap: wrap;
+}
+
+.side-filter {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.side-filter label {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--color-light-red);
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.side-filter input[type="checkbox"] {
+    appearance: none;
+    -webkit-appearance: none;
+    height: 20px;
+    width: 20px;
+    border: 2px solid var(--color-light-red);
+    border-radius: 4px;
+    background-color: var(--color-light-orange);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.side-filter input[type="checkbox"]:checked {
+    background-color: var(--color-yellow);
+    border-color: var(--color-light-orange);
+}
+
+.side-filter input[type="checkbox"]:checked::before {
+    content: '✔';
+    display: block;
+    text-align: center;
+    color: var(--color-light-orange);
+    font-size: 14px;
+    line-height: 20px;
+}
+
+
+
+.slider {
+    -webkit-appearance: none;
+    width: 25%;
+    height: 10px;
+    border-radius: 10px;
+    background: var(--color-light-orange);
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: var(--color-yellow);
+    cursor: grab;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: var(--color-yellow);
+    border-style: inset;
+    cursor: grab;
+}
+
+.slider:active::-webkit-slider-thumb {
+    cursor: grabbing;
+}
+
+.slider:active::-moz-range-thumb {
+    cursor: grabbing;
+}
+
+.dorm-list {
+    padding: 2rem;
+}
+
+.dorm-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-between;
+}
+
+.dorm-card {
+    flex: 1 1 calc(33.33% - 1rem);
+    border: 4px dashed var(--color-yellow);
+    padding: 1rem;
+    box-sizing: border-box;
+    text-align: left;
+    border-radius: 10px;
+    cursor: cell;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.dorm-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.dorm-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    transition: filter 0.3s ease;
+}
+
+.dorm-card:hover img {
+    filter: brightness(1.1);
+}
+
+.dorm-card a {
+    margin: 1rem 0;
+    color: var(--color-magenta);
+    text-decoration: none;
+    font-size: 22px;
+    cursor: copy;
+}
+
+.dorm-card h2 {
+    margin: 1rem 0;
+    color: var(--color-light-orange);
+    transition: color 0.3s ease;
+}
+
+.dorm-card:hover h2 {
+    color: var(--color-yellow);
+}
+
+.dorm-card.grayscale {
+    filter: grayscale(100%);
+}
+
+.filters select {
+    appearance: none;
+    background-color: var(--color-light-orange);
+    border: none;
+    border-radius: 5px;
+    color: var(--color-yellow);
+    cursor: pointer;
+    font-size: 16px;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.filters select:hover {
+    color: var(--color-light-orange);
+    background-color: var(--color-yellow);
+}
+
+.filters option {
+    color: var(--color-light-red);
+    background-color: var(--color-yellow);
+}
+
+/* Responsiveness not necessary, but still */
+@media (max-width: 768px) {
+    .dorm-card {
+        flex: 1 1 calc(50% - 1rem);    /* 2 per row */
+    }
+}
+
+/* For mobile */
+@media (max-width: 480px) {
+    .dorm-card {
+        flex: 1 1 100%;                /* 1  per row */
+    }
+}

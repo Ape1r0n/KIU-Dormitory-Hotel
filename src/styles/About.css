@@ -1,0 +1,55 @@
+* {
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    color: var(--color-magenta);
+}
+
+.about {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 50px;
+}
+
+.left-about {
+    flex: 1;
+    padding-right: 40px;
+}
+
+.right-about img {
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.about h2 {
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    color: var(--color-light-orange);
+    margin: 0;
+}
+
+.about h3 {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    color: var(--color-light-red);
+    margin: 0;
+}
+
+ul {
+    list-style-type: georgian;  /* Yeah, this is easily the best feature out there */
+    padding-left: 20px;
+    color: #333;
+}
+
+li {
+    font-size: 18px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    color: #555;
+}

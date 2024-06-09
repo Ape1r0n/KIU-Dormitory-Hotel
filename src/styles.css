@@ -1,0 +1,3643 @@
+/* Hotel Website */
+
+position: relative;
+width: 4557px;
+height: 3091px;
+
+
+
+/* Product Detail Page */
+
+position: absolute;
+left: 34.63%;
+right: 33.77%;
+top: 0.39%;
+bottom: 45.68%;
+
+background: #FFFFFF;
+
+
+/* Card list */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 1280px;
+height: 366px;
+left: 80px;
+top: 917px;
+
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 406px;
+height: 366px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image */
+
+width: 406px;
+height: 244px;
+
+background: url(Stocksy_txp226f62b2aNe300_Medium_4899143.jpg), url(.jpg), #F7F7F7;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Copy */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 406px;
+height: 98px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* G239 */
+
+width: 406px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Dorm of Waifu */
+
+width: 406px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* $259.99 */
+
+width: 406px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 405px;
+height: 366px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Image */
+
+width: 405px;
+height: 244px;
+
+background: url(Stocksy_txp226f62b2aNe300_Medium_2737171.jpg), url(.jpg), #F7F7F7;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Copy */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 405px;
+height: 98px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* G131 */
+
+width: 405px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* The Old Gathering Place */
+
+width: 405px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* $249.99 */
+
+width: 405px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 405px;
+height: 366px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Image */
+
+width: 405px;
+height: 244px;
+
+background: url(Stocksy_txp26f62b2aNe300_Medium_4582193.jpg), url(.jpg), #F7F7F7;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Copy */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 405px;
+height: 98px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* G343 */
+
+width: 405px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Dorm of half man, half cow */
+
+width: 405px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* $504.99 */
+
+width: 405px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Other rooms */
+
+position: absolute;
+width: 625px;
+height: 36px;
+left: 80px;
+top: 857px;
+
+/* Subheading
+
+Description or small heading
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+color: #16478A;
+
+
+
+/* Copy */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+height: 324px;
+left: 58.68%;
+right: 5.56%;
+top: 164px;
+
+background: #FFFFFF;
+
+
+/* Product name */
+
+width: 515px;
+height: 44px;
+
+/* Heading
+
+Headers for your page
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 110%;
+/* identical to box height, or 44px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/*  Subheading */
+
+width: 515px;
+height: 36px;
+
+/* Subheading
+
+Description or small heading
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Price */
+
+width: 515px;
+height: 36px;
+
+/* Subheading
+
+Description or small heading
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Description */
+
+width: 515px;
+height: 60px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+display: flex;
+align-items: center;
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 24px;
+gap: 8px;
+
+width: 515px;
+height: 52px;
+
+background: #16478A;
+/* Button Shadow */
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Book Now */
+
+width: 78px;
+height: 24px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image */
+
+position: absolute;
+height: 613px;
+left: 5.56%;
+right: 51.04%;
+top: 164px;
+
+background: url(Stocksy_txp226f62b2aNe300_Medium_5044405.jpg), url(.jpg), #F7F7F7;
+border-radius: 12px;
+
+
+/* Navigation / Footer */
+
+position: absolute;
+height: 264px;
+left: 0px;
+right: 0px;
+top: 1403px;
+
+background: #FFFFFF;
+
+
+/* Kutaisi International University Dormitory */
+
+position: absolute;
+width: 463px;
+height: 36px;
+left: 80px;
+top: 52px;
+
+/* Subheading
+
+Description or small heading
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+
+color: #16478A;
+
+
+
+/* Social Icons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 184px;
+height: 40px;
+left: 80px;
+top: 176px;
+
+
+
+/* Buttons / Icon */
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 8px;
+top: 8px;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 20px;
+height: 19.92px;
+left: 2px;
+top: 2.04px;
+
+background: #828282;
+
+
+/* Icons / Social / facebook */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.5%;
+bottom: 8.5%;
+
+background: #828282;
+
+
+/* Buttons / Icon */
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 8px;
+top: 8px;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 3px;
+top: 3px;
+
+background: #828282;
+
+
+/* Icons / Social / linkedin */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #828282;
+
+
+/* Buttons / Icon */
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 8px;
+top: 8px;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 20px;
+height: 14px;
+left: 2px;
+top: 5px;
+
+background: #828282;
+
+
+/* Icons / Social / youtube */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 20.83%;
+bottom: 20.83%;
+
+background: #828282;
+
+
+/* Buttons / Icon */
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 8px;
+top: 8px;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2px;
+top: 2px;
+
+background: #828282;
+
+
+/* Icons / Social / instagram */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #828282;
+
+
+/* Divider */
+
+position: absolute;
+width: 1280px;
+height: 0px;
+left: 80px;
+top: 1px;
+
+border: 1px solid #E6E6E6;
+
+
+/* 04 Multi-line Paragraph Input */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 626px;
+height: 194px;
+left: 720px;
+top: 22px;
+
+
+
+/* Leave Notes: */
+
+width: 626px;
+height: 24px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Field */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 12px 16px;
+gap: 8px;
+
+width: 626px;
+height: 162px;
+
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+/* Button Shadow */
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 594px;
+height: 24px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Navigation */
+
+position: absolute;
+height: 164px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Items */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 48px;
+
+position: absolute;
+width: 511px;
+height: 52px;
+right: 80px;
+top: 56px;
+
+
+
+/* Dorms */
+
+width: 63px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About */
+
+width: 58px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Contact */
+
+width: 77px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 24px;
+gap: 8px;
+
+width: 169px;
+height: 52px;
+
+background: #16478A;
+/* Button Shadow */
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Sign Up | Log In */
+
+width: 121px;
+height: 24px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* KIU Dormitory Hotels */
+
+position: absolute;
+width: 202px;
+height: 30px;
+left: 80px;
+top: 67px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #16478A;
+
+
+
+/* Shop */
+
+position: absolute;
+left: 0%;
+right: 68.36%;
+top: -2.1%;
+bottom: 34.16%;
+
+background: #FFFFFF;
+
+
+/* Card list */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 515px;
+height: 366px;
+left: 847px;
+top: 1917px;
+
+
+
+/* Card grid */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-between;
+align-items: flex-end;
+align-content: flex-start;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 1282px;
+height: 764px;
+left: 80px;
+top: 957px;
+
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 404px;
+height: 366px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Image */
+
+width: 404px;
+height: 244px;
+
+background: url(Stocksy_txp226f62b2aNe300_Medium_4899143.jpg), url(.jpg), #F7F7F7;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Copy */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 404px;
+height: 98px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* G239 */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* The room of the Waifu */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* $259.99 */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 404px;
+height: 366px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Image */
+
+width: 404px;
+height: 244px;
+
+background: url(Stocksy_txp226f62b2aNe300_Medium_960070.jpg), url(.jpg), #F7F7F7;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Copy */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 404px;
+height: 98px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* G433 */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* The room of the founder */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* $509.99 */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 404px;
+height: 366px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Image */
+
+width: 404px;
+height: 244px;
+
+background: url(Stocksy_txp226f62b2aNe300_Medium_2737171.jpg), url(.jpg), #F7F7F7;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Copy */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 404px;
+height: 98px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* G120 */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* The Walmart verison of KFC */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* $249.99 */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 404px;
+height: 366px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Image */
+
+width: 404px;
+height: 244px;
+
+background: url(Stocksy_txp226f62b2aNe300_Medium_4466542.jpg), url(.jpg), #F7F7F7;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Copy */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 404px;
+height: 98px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* G343 */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Dorm of half man, half cow */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* $504.99 */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 404px;
+height: 366px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Image */
+
+width: 404px;
+height: 244px;
+
+background: url(Stocksy_txp226f62b2aNe300_Medium_4582193.jpg), url(.jpg), #F7F7F7;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Copy */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 404px;
+height: 98px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* G131 */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* The Old Gathering Place */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* $254.99 */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 404px;
+height: 366px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Image */
+
+width: 404px;
+height: 244px;
+
+background: url(Stocksy_txp226f62b2aNe300_Medium_4959394.jpg), url(.jpg), #F7F7F7;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Copy */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 404px;
+height: 98px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* G230 */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Black & White */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* $254.99 */
+
+width: 404px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Dorms */
+
+position: absolute;
+width: 755px;
+height: 44px;
+left: 81px;
+top: 881px;
+
+/* Heading
+
+Headers for your page
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 110%;
+/* identical to box height, or 44px */
+
+color: #16478A;
+
+
+
+/* Header with image */
+
+position: absolute;
+width: 1275px;
+height: 597px;
+left: calc(50% - 1275px/2 - 3.5px);
+top: 164px;
+
+background: url(image.png), url(Stocksy_txp226f62b2aNe300_Medium_960070.jpg), url(Stocksy_txp226f62b2aNe300_Medium_703691.jpg), url(.jpg), #F7F7F7;
+border-radius: 8px;
+
+
+/* Copy */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+height: 213px;
+left: 17.41%;
+right: 16.63%;
+top: 192px;
+
+
+
+/* Dormitory in Kutaisi */
+
+width: 841px;
+height: 77px;
+
+/* Title
+
+Largest copy on the page.
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Neighborhood filled with Laughter */
+
+width: 841px;
+height: 36px;
+
+/* Subheading
+
+Description or small heading
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 24px;
+gap: 8px;
+
+width: 126px;
+height: 52px;
+
+background: #16478A;
+/* Button Shadow */
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Book Now */
+
+width: 78px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Navigation */
+
+position: absolute;
+height: 164px;
+left: 0px;
+right: 2px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Items */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 48px;
+
+position: absolute;
+width: 511px;
+height: 52px;
+right: 80px;
+top: 56px;
+
+
+
+/* Dorms */
+
+width: 63px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About */
+
+width: 58px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Contact */
+
+width: 77px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 24px;
+gap: 8px;
+
+width: 169px;
+height: 52px;
+
+background: #16478A;
+/* Button Shadow */
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Sign Up | Log In */
+
+width: 121px;
+height: 24px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* KIU Dormitory Hotels */
+
+position: absolute;
+width: 202px;
+height: 30px;
+left: 80px;
+top: 67px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #16478A;
+
+
+
+/* Navigation / Footer */
+
+position: absolute;
+height: 264px;
+left: -3px;
+right: 5px;
+top: 1836px;
+
+background: #FFFFFF;
+
+
+/* Kutaisi International University Dormitory */
+
+position: absolute;
+width: 463px;
+height: 36px;
+left: 80px;
+top: 52px;
+
+/* Subheading
+
+Description or small heading
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+
+color: #16478A;
+
+
+
+/* Social Icons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 184px;
+height: 40px;
+left: 80px;
+top: 176px;
+
+
+
+/* Buttons / Icon */
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 8px;
+top: 8px;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 20px;
+height: 19.92px;
+left: 2px;
+top: 2.04px;
+
+background: #828282;
+
+
+/* Icons / Social / facebook */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.5%;
+bottom: 8.5%;
+
+background: #828282;
+
+
+/* Buttons / Icon */
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 8px;
+top: 8px;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 3px;
+top: 3px;
+
+background: #828282;
+
+
+/* Icons / Social / linkedin */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #828282;
+
+
+/* Buttons / Icon */
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 8px;
+top: 8px;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 20px;
+height: 14px;
+left: 2px;
+top: 5px;
+
+background: #828282;
+
+
+/* Icons / Social / youtube */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 20.83%;
+bottom: 20.83%;
+
+background: #828282;
+
+
+/* Buttons / Icon */
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 8px;
+top: 8px;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2px;
+top: 2px;
+
+background: #828282;
+
+
+/* Icons / Social / instagram */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #828282;
+
+
+/* Divider */
+
+position: absolute;
+width: 1280px;
+height: 0px;
+left: 80px;
+top: 1px;
+
+border: 1px solid #E6E6E6;
+
+
+/* 04 Multi-line Paragraph Input */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 626px;
+height: 194px;
+left: 720px;
+top: 22px;
+
+
+
+/* Leave Notes: */
+
+width: 626px;
+height: 24px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Field */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 12px 16px;
+gap: 8px;
+
+width: 626px;
+height: 162px;
+
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+/* Button Shadow */
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 594px;
+height: 24px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* 05 Tab List */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px;
+gap: 8px;
+
+position: absolute;
+width: 357px;
+height: 56px;
+left: 1037px;
+top: 875px;
+
+background: #F5F5F5;
+border-radius: 12px;
+
+
+/* Frame 52 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 8px;
+
+width: 88px;
+height: 40px;
+
+background: #FFFFFF;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Default */
+
+width: 56px;
+height: 24px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 15295 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 8px;
+
+width: 114px;
+height: 40px;
+
+background: #F5F5F5;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ascending */
+
+width: 82px;
+height: 24px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 15296 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 8px;
+
+width: 123px;
+height: 40px;
+
+background: #F5F5F5;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Descending */
+
+width: 91px;
+height: 24px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About */
+
+position: absolute;
+left: 68.4%;
+right: 0%;
+top: 0%;
+bottom: 58.43%;
+
+background: #FFFFFF;
+
+
+/* Hero Image */
+
+position: absolute;
+width: 508px;
+height: 657px;
+right: 85px;
+top: 244px;
+
+background: url(Stocksy_txp226f62b2aNe300_Medium_4899209.jpg), url(frank-ching-L1hlPG8-57A-unsplash (1).jpg), url(image.png), url(.jpg), #F7F7F7;
+border-radius: 8px;
+
+
+/* Headline */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 624px;
+height: 713px;
+left: 80px;
+top: 244px;
+
+
+
+/* About Us */
+
+width: 624px;
+height: 77px;
+
+/* Title
+
+Largest copy on the page.
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+letter-spacing: -0.02em;
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Your comfort is our gain 🤑 */
+
+width: 624px;
+height: 36px;
+
+/* Subheading
+
+Description or small heading
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Paragraph */
+
+width: 734px;
+height: 552px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Navigation */
+
+position: absolute;
+height: 164px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Items */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 48px;
+
+position: absolute;
+width: 511px;
+height: 52px;
+right: 80px;
+top: 56px;
+
+
+
+/* Dorms */
+
+width: 63px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About */
+
+width: 58px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Contact */
+
+width: 77px;
+height: 30px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 24px;
+gap: 8px;
+
+width: 169px;
+height: 52px;
+
+background: #16478A;
+/* Button Shadow */
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Sign Up | Log In */
+
+width: 121px;
+height: 24px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* KIU Dormitory Hotels */
+
+position: absolute;
+width: 202px;
+height: 30px;
+left: 80px;
+top: 67px;
+
+/* Body text
+
+Text for body copy
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+display: flex;
+align-items: center;
+
+color: #16478A;
+
+
+
+/* Navigation / Footer */
+
+position: absolute;
+height: 264px;
+left: 0px;
+right: 0px;
+top: 1021px;
+
+background: #FFFFFF;
+
+
+/* Kutaisi International University Dormitory */
+
+position: absolute;
+width: 463px;
+height: 36px;
+left: 80px;
+top: 52px;
+
+/* Subheading
+
+Description or small heading
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+
+color: #16478A;
+
+
+
+/* Social Icons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 184px;
+height: 40px;
+left: 80px;
+top: 176px;
+
+
+
+/* Buttons / Icon */
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 8px;
+top: 8px;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 20px;
+height: 19.92px;
+left: 2px;
+top: 2.04px;
+
+background: #828282;
+
+
+/* Icons / Social / facebook */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.5%;
+bottom: 8.5%;
+
+background: #828282;
+
+
+/* Buttons / Icon */
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 8px;
+top: 8px;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 3px;
+top: 3px;
+
+background: #828282;
+
+
+/* Icons / Social / linkedin */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #828282;
+
+
+/* Buttons / Icon */
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 8px;
+top: 8px;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 20px;
+height: 14px;
+left: 2px;
+top: 5px;
+
+background: #828282;
+
+
+/* Icons / Social / youtube */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 20.83%;
+bottom: 20.83%;
+
+background: #828282;
+
+
+/* Buttons / Icon */
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 8px;
+top: 8px;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 2px;
+top: 2px;
+
+background: #828282;
+
+
+/* Icons / Social / instagram */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #828282;
+
+
+/* Divider */
+
+position: absolute;
+width: 1280px;
+height: 0px;
+left: 80px;
+top: 1px;
+
+border: 1px solid #E6E6E6;
+
+
+/* 04 Multi-line Paragraph Input */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 626px;
+height: 194px;
+left: 720px;
+top: 22px;
+
+
+
+/* Leave Notes: */
+
+width: 626px;
+height: 24px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+color: #16478A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Field */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 12px 16px;
+gap: 8px;
+
+width: 626px;
+height: 162px;
+
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+/* Button Shadow */
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 594px;
+height: 24px;
+
+/* Small text
+
+Small text
+*/
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+color: #828282;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+2
